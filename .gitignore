@@ -1,0 +1,9 @@
+build/
+node_modules/
+*.so
+*.dylib
+*.dll
+.env
+.DS_Store
+.vscode/
+.idea/
